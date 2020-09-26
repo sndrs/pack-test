@@ -1,0 +1,1 @@
+{"version":3,"file":"index.bundled.js","sources":["index.js"],"sourcesContent":["const test = 'test';\n\nlet a = { b: 'b' };\nconst x = a?.b ? 'b' : test;\nconst cli = () => console.log(x);\n\nexport { cli, x };\n//# sourceMappingURL=index.js.map\n"],"names":[],"mappings":"AAAO,yCAAa"}

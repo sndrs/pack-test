@@ -1,0 +1,2 @@
+declare export var x: string;
+declare export var cli: () => void;

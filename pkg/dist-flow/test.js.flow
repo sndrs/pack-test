@@ -1,0 +1,1 @@
+declare export var test: any; // "test"
